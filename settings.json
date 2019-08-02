@@ -1,0 +1,19 @@
+{
+	"perms":
+	{
+		"layer1": ["userrole", "defaultrole"],
+		"layer2": ["testrole1", "testrole2"],
+		"layer3": ["modtest"],
+		"layer4": ["admintest"]
+	},
+	"custom":
+	{
+		"default_channel": "general",
+		"default_role": "defaultrole"
+	},
+	"custom_commands":
+	{
+		"?testcommand1": "test {server} {user}",
+		"?testcommand2": "https://i.imgur.com/9TUhSFp.jpg"
+	}
+}
